@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tageo-react/static/css/main.944fe95f.css",
-    "main.js": "/tageo-react/static/js/main.cb991d0d.js",
+    "main.js": "/tageo-react/static/js/main.c79a65c6.js",
     "static/js/787.069dcc9d.chunk.js": "/tageo-react/static/js/787.069dcc9d.chunk.js",
     "index.html": "/tageo-react/index.html",
     "main.944fe95f.css.map": "/tageo-react/static/css/main.944fe95f.css.map",
-    "main.cb991d0d.js.map": "/tageo-react/static/js/main.cb991d0d.js.map",
+    "main.c79a65c6.js.map": "/tageo-react/static/js/main.c79a65c6.js.map",
     "787.069dcc9d.chunk.js.map": "/tageo-react/static/js/787.069dcc9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.944fe95f.css",
-    "static/js/main.cb991d0d.js"
+    "static/js/main.c79a65c6.js"
   ]
 }
